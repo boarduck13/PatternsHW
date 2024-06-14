@@ -1,7 +1,7 @@
 [![Java CI with Gradle](https://github.com/boarduck13/PatternsHW/actions/workflows/gradle.yml/badge.svg)](https://github.com/boarduck13/PatternsHW/actions/workflows/gradle.yml)
 
 
-![](https://ibb.co/3MrSdS9)
+![]([![temp-Imageg45kx-T.avif](https://i.postimg.cc/jdcQzxWn/temp-Imageg45kx-T.avif)](https://postimg.cc/1fgqSZry))
 
 ![](https://ibb.co/GWGYHGG)
 
